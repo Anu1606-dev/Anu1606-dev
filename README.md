@@ -154,22 +154,48 @@ The project I’m pushing deepest right now: a RAG assistant for real repositori
 </tr>
 </table>
 
-## 🌙 GitHub stats & streak
+<!-- ========================================================= -->
+<!--               GITHUB ENGINEERING STATS                    -->
+<!-- ========================================================= -->
+
+## 📊 GitHub engineering stats
+
+<p align="center">
+
+<a href="https://github.com/Anu1606-dev">
+  <img src="https://streak-stats.demolab.com/?user=Anu1606-dev&theme=dark&background=0B1020&border=354675&ring=FF5DB1&fire=5CE1E6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFB3D9&sideLabels=B18CFF&dates=9DB4D6&mode=daily&locale=en&card_width=495&border_radius=24" width="49%" alt="Animated GitHub engineering streak" />
+</a>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Anu1606-dev&layout=compact&card_width=420&theme=dark&hide_border=false&border_color=354675&title_color=FF5DB1&text_color=E8DFFF&bg_color=111B3A&custom_title=Technology%20Footprint" width="49%" alt="Live technology footprint" />
+
+</p>
+
+<!-- ========================================================= -->
+<!--                  CONTRIBUTION ANALYTICS                   -->
+<!-- ========================================================= -->
+
+## 📈 Contribution analytics
+
+<p align="center">
+  <a href="https://github.com/Anu1606-dev">
+    <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Anu1606-dev&theme=react-dark&hide_border=true&bg_color=0B1020&color=F7EEFF&line=FF5DB1&point=5CE1E6&area=true&area_color=B18CFF&radius=24&custom_title=Contribution%20Analytics" width="98%" alt="Live contribution analytics graph" />
+  </a>
+</p>
+
+<!-- ========================================================= -->
+<!--                  CONTRIBUTION ACTIVITY                   -->
+<!-- ========================================================= -->
+
+## 🐍 Contribution activity
 
 <div align="center">
 
-<a href="https://github.com/Anu1606-dev"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anu1606-dev&theme=radical" height="180" alt="Live GitHub stats" /></a>
-<a href="https://github.com/Anu1606-dev"><img src="https://streak-stats.demolab.com?user=Anu1606-dev&theme=radical&hide_border=true&background=0B1020&ring=FF5DB1&fire=5CE1E6&currStreakLabel=FFB3D9&sideLabels=B18CFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9DB4D6&stroke=354675" height="180" alt="Live GitHub streak" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anu1606-dev/Anu1606-dev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anu1606-dev/Anu1606-dev/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Anu1606-dev/Anu1606-dev/output/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub contribution activity snake" />
+</picture>
 
-</div>
-
-<br />
-
-<div align="center">
-
-<a href="https://github.com/Anu1606-dev"><img src="https://ghchart.rshah.org/A855F7/Anu1606-dev" width="92%" alt="Live GitHub contribution calendar with purple intensity scale" /></a>
-
-<sub><a href="https://github.com/Anu1606-dev">Open my GitHub profile to explore the live contribution calendar ↗</a></sub>
+<sub>watch the little contribution snake collect your coding days ✨</sub>
 
 </div>
 
