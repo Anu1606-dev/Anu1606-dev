@@ -1,8 +1,8 @@
 <div align="center">
 
-<table>
+<table cellpadding="0" cellspacing="0" style="border-collapse:separate; border-spacing:12px;">
 <tr>
-<td valign="middle" width="68%">
+<td valign="middle" width="68%" style="border:1px solid #354675; border-radius:28px; background-color:#0F1832; padding:24px;">
 
 # Hi, I'm Anushka <span title="heart">♡</span>
 
@@ -13,7 +13,7 @@ I turn ideas into practical products — from full-stack developer platforms to 
 <em>good code, better days ♡</em>
 
 </td>
-<td align="center" width="32%">
+<td align="center" width="32%" style="border:1px solid #354675; border-radius:28px; background-color:#151C3B; padding:24px;">
 
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" alt="A cat typing on a laptop" />
 
@@ -24,9 +24,9 @@ I turn ideas into practical products — from full-stack developer platforms to 
 </table>
 
 <p>
-  <a href="https://github.com/Anu1606-dev"><img src="https://img.shields.io/badge/GitHub-@Anu1606--dev-0B1024?style=flat-square&logo=github&logoColor=white&labelColor=FF9BCF" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/anushka-sarkar-07b2502b9/"><img src="https://img.shields.io/badge/LinkedIn-Anushka%20Sarkar-0B1024?style=flat-square&logo=linkedin&logoColor=white&labelColor=CAB7FF" alt="LinkedIn" /></a>
-  <a href="https://x.com/Anu35473"><img src="https://img.shields.io/badge/X-@Anu35473-0B1024?style=flat-square&logo=x&logoColor=white&labelColor=9CCBFF" alt="X" /></a>
+  <a href="https://github.com/Anu1606-dev"><img src="https://img.shields.io/badge/GitHub-@Anu1606--dev-0B1020?style=for-the-badge&logo=github&logoColor=white&labelColor=FF5DB1" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/anushka-sarkar-07b2502b9/"><img src="https://img.shields.io/badge/LinkedIn-Anushka%20Sarkar-0B1020?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=B18CFF" alt="LinkedIn" /></a>
+  <a href="https://x.com/Anu35473"><img src="https://img.shields.io/badge/X-@Anu35473-0B1020?style=for-the-badge&logo=x&logoColor=white&labelColor=5CE1E6" alt="X" /></a>
 </p>
 
 <p><em>build → ship → repeat ✨</em></p>
@@ -37,9 +37,9 @@ I turn ideas into practical products — from full-stack developer platforms to 
 
 ## 🎯 Currently building
 
-<table>
+<table cellpadding="0" cellspacing="0" style="border-collapse:separate; border-spacing:12px;">
 <tr>
-<td valign="top" width="22%" align="center">
+<td valign="top" width="22%" align="center" style="border:1px solid #354675; border-radius:24px; background-color:#111B3A; padding:20px;">
 
 <a href="https://github.com/Anu1606-dev/CodeAtlas"><img src="https://skillicons.dev/icons?i=react,ts,mongodb,redis" width="170" alt="CodeAtlas technology stack" /></a>
 
@@ -48,7 +48,7 @@ I turn ideas into practical products — from full-stack developer platforms to 
 <a href="https://code-atlas-blue.vercel.app/chat"><strong>Try CodeAtlas ↗</strong></a>
 
 </td>
-<td valign="top" width="78%">
+<td valign="top" width="78%" style="border:1px solid #354675; border-radius:24px; background-color:#111B3A; padding:20px;">
 
 ### <a href="https://github.com/Anu1606-dev/CodeAtlas">CodeAtlas</a>
 
@@ -64,9 +64,9 @@ What makes it fun: structure-aware chunking, Gemini embeddings, MongoDB Atlas Ve
 
 ## ⭐ Featured projects
 
-<table>
+<table cellpadding="0" cellspacing="0" style="border-collapse:separate; border-spacing:12px;">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="50%" style="border:1px solid #354675; border-radius:24px; background-color:#111B3A; padding:20px;">
 
 ### 💞 <a href="https://github.com/Anu1606-dev/DevTinder-Frontend">DevTinder</a>
 
@@ -77,7 +77,7 @@ The frontend for a full-stack developer networking platform: discover people by 
 `React` `Vite` `Redux Toolkit` `Tailwind` `Socket.io` `Node.js` `MongoDB`
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="50%" style="border:1px solid #354675; border-radius:24px; background-color:#151C3B; padding:20px;">
 
 ### 📸 <a href="https://github.com/Anu1606-dev/SnapSpend">SnapSpend</a>
 
@@ -88,7 +88,7 @@ An AI expense tracker that turns receipt photos into structured expenses, answer
 </td>
 </tr>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="50%" style="border:1px solid #354675; border-radius:24px; background-color:#151C3B; padding:20px;">
 
 ### 🎬 <a href="https://github.com/Anu1606-dev/NetflixGPT">NetflixGPT</a>
 
@@ -97,7 +97,7 @@ A Netflix-inspired movie discovery app with streamed Gemini recommendations, fun
 `React` `TypeScript` `Redux Toolkit` `Firebase` `Gemini` `TMDB` `Jest`
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="50%" style="border:1px solid #354675; border-radius:24px; background-color:#111B3A; padding:20px;">
 
 ### 🛠️ <a href="https://github.com/Anu1606-dev/CodeAtlas">CodeAtlas</a>
 
@@ -113,15 +113,15 @@ The project I’m pushing deepest right now: a RAG assistant for real repositori
 
 <div align="center">
 
-<a href="https://github.com/Anu1606-dev?tab=repositories"><img src="https://img.shields.io/badge/View%20all%20repositories-FF9BCF?style=for-the-badge&logo=github&logoColor=0B1024&labelColor=FF9BCF" alt="View all repositories" /></a>
+<a href="https://github.com/Anu1606-dev?tab=repositories"><img src="https://img.shields.io/badge/View%20all%20repositories-FF5DB1?style=for-the-badge&logo=github&logoColor=0B1020&labelColor=FF5DB1" alt="View all repositories" /></a>
 
 </div>
 
 ## 🧩 Tech stack
 
-<table>
+<table cellpadding="0" cellspacing="0" style="border-collapse:separate; border-spacing:12px;">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="50%" style="border:1px solid #354675; border-radius:24px; background-color:#111B3A; padding:20px;">
 
 **Frontend**
 
@@ -136,7 +136,7 @@ The project I’m pushing deepest right now: a RAG assistant for real repositori
 `REST APIs` · `Socket.io` · `JWT` · `GitHub OAuth`
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="50%" style="border:1px solid #354675; border-radius:24px; background-color:#151C3B; padding:20px;">
 
 **Data, cloud & deployment**
 
@@ -159,7 +159,7 @@ The project I’m pushing deepest right now: a RAG assistant for real repositori
 <div align="center">
 
 <a href="https://github.com/Anu1606-dev"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anu1606-dev&theme=radical" height="180" alt="Live GitHub stats" /></a>
-<a href="https://github.com/Anu1606-dev"><img src="https://streak-stats.demolab.com?user=Anu1606-dev&theme=radical&hide_border=true&background=0B1024&ring=FF9BCF&fire=FF9BCF&currStreakLabel=FFB7D9&sideLabels=CAB7FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9AA7C7" height="180" alt="Live GitHub streak" /></a>
+<a href="https://github.com/Anu1606-dev"><img src="https://streak-stats.demolab.com?user=Anu1606-dev&theme=radical&hide_border=true&background=0B1020&ring=FF5DB1&fire=5CE1E6&currStreakLabel=FFB3D9&sideLabels=B18CFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9DB4D6&stroke=354675" height="180" alt="Live GitHub streak" /></a>
 
 </div>
 
@@ -167,7 +167,7 @@ The project I’m pushing deepest right now: a RAG assistant for real repositori
 
 <div align="center">
 
-<a href="https://github.com/Anu1606-dev"><img src="https://ghchart.rshah.org/FF9BCF/Anu1606-dev" width="92%" alt="Live GitHub contribution calendar" /></a>
+<a href="https://github.com/Anu1606-dev"><img src="https://ghchart.rshah.org/A855F7/Anu1606-dev" width="92%" alt="Live GitHub contribution calendar with purple intensity scale" /></a>
 
 <sub><a href="https://github.com/Anu1606-dev">Open my GitHub profile to explore the live contribution calendar ↗</a></sub>
 
@@ -175,21 +175,21 @@ The project I’m pushing deepest right now: a RAG assistant for real repositori
 
 ## 🌱 Currently learning
 
-<table>
+<table cellpadding="0" cellspacing="0" style="border-collapse:separate; border-spacing:10px;">
 <tr>
-<td>☑️ TypeScript depth</td>
-<td>☑️ Cloud & DevOps</td>
-<td>☑️ Backend architecture</td>
-<td>☑️ RAG evaluation</td>
-<td>☑️ AI application engineering</td>
+<td style="border:1px solid #354675; border-radius:18px; background-color:#111B3A; padding:14px;">☑️ TypeScript depth</td>
+<td style="border:1px solid #354675; border-radius:18px; background-color:#151C3B; padding:14px;">☑️ Cloud & DevOps</td>
+<td style="border:1px solid #354675; border-radius:18px; background-color:#111B3A; padding:14px;">☑️ Backend architecture</td>
+<td style="border:1px solid #354675; border-radius:18px; background-color:#151C3B; padding:14px;">☑️ RAG evaluation</td>
+<td style="border:1px solid #354675; border-radius:18px; background-color:#111B3A; padding:14px;">☑️ AI application engineering</td>
 </tr>
 </table>
 
 ## ♡ A little about me
 
-<table>
+<table cellpadding="0" cellspacing="0" style="border-collapse:separate; border-spacing:12px;">
 <tr>
-<td valign="top" width="65%">
+<td valign="top" width="65%" style="border:1px solid #354675; border-radius:24px; background-color:#111B3A; padding:20px;">
 
 - B.Tech IT student building practical full-stack products.
 - Drawn to backend systems, cloud deployment, developer tooling, and useful AI.
@@ -197,13 +197,13 @@ The project I’m pushing deepest right now: a RAG assistant for real repositori
 - Coffee, books, flowers, good music — and the occasional debugging spiral.
 
 </td>
-<td valign="top" width="35%" align="center">
+<td valign="top" width="35%" align="center" style="border:1px solid #354675; border-radius:24px; background-color:#151C3B; padding:20px;">
 
 <em>small steps<br />big dreams<br />♡</em>
 
 <br /><br />
 
-<a href="https://github.com/Anu1606-dev"><img src="https://img.shields.io/github/followers/Anu1606-dev?label=followers&style=flat-square&color=FF9BCF&labelColor=0B1024" alt="Live GitHub follower count" /></a>
+<a href="https://github.com/Anu1606-dev"><img src="https://img.shields.io/github/followers/Anu1606-dev?label=followers&style=for-the-badge&color=FF5DB1&labelColor=0B1020" alt="Live GitHub follower count" /></a>
 
 </td>
 </tr>
