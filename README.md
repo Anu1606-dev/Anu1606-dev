@@ -211,30 +211,6 @@ The project I’m pushing deepest right now: a RAG assistant for real repositori
 </tr>
 </table>
 
-## ♡ A little about me
-
-<table cellpadding="0" cellspacing="0" style="border-collapse:separate; border-spacing:12px;">
-<tr>
-<td valign="top" width="65%" style="border:1px solid #354675; border-radius:24px; background-color:#111B3A; padding:20px;">
-
-- B.Tech IT student building practical full-stack products.
-- Drawn to backend systems, cloud deployment, developer tooling, and useful AI.
-- Currently happiest when a messy idea becomes a shipped feature.
-- Coffee, books, flowers, good music — and the occasional debugging spiral.
-
-</td>
-<td valign="top" width="35%" align="center" style="border:1px solid #354675; border-radius:24px; background-color:#151C3B; padding:20px;">
-
-<em>small steps<br />big dreams<br />♡</em>
-
-<br /><br />
-
-<a href="https://github.com/Anu1606-dev"><img src="https://img.shields.io/github/followers/Anu1606-dev?label=followers&style=for-the-badge&color=FF5DB1&labelColor=0B1020" alt="Live GitHub follower count" /></a>
-
-</td>
-</tr>
-</table>
-
 <div align="center">
 
 <sub>thanks for visiting · making my dreams a commit at a time ✨</sub>
